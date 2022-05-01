@@ -1,0 +1,719 @@
+<?xml version="1.0" ?>
+<yml_catalog date="2022-05-01 17:31">
+	<shop>
+		<name>f-avto.ru</name>
+		<company>f-avto.ru</company>
+		<url>https://f-avto.ru</url>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="0">Двигатели</category>
+			<category id="1">КПП - автомат</category>
+			<category id="2">КПП - механика</category>
+			<category id="3">Раздаточные коробки</category>
+			<category id="4">Редуктор передний</category>
+			<category id="5">Редуктор задний</category>
+			<category id="6">ТНВД</category>
+			<category id="7">Турбины</category>
+		</categories>
+		<offers>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+			<offer id="53634212" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716211 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-1-6053605.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-2-6053606.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-3-6053607.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-4-6053608.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-5-6053609.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53634212/images/fullsize/kpp-4-st-mercedes-w201-190-53634212-6-6053610.jpg |</picture>
+			</offer>
+			<offer id="52166223" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>717217 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-1-6453873.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-2-6453874.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/52166223/images/fullsize/kpp-4-st-mercedes-w201-190-52166223-3-6453875.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53819407</Артикул>
+					<Характеристики>Подушка крепления КПП; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819411</Артикул>
+					<Характеристики>Муфта кардана; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. разбиты втулки;</Характеристики>
+					<Артикул>53819414</Артикул>
+					<Характеристики>Подшипник выжимной; 1990; 1.8л; Бензин; i; Седан; чёрный; продается на з\ч без гарантии. шелестит;</Характеристики>
+					<Артикул>53819450</Артикул>
+					<Характеристики>Вилка сцепления; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+					<Артикул>53819451</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1990; 1.8л; Бензин; i; Седан; чёрный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53671064" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>2012600201716 КПП 4-ст. механическая б/у Mercedes W201 (190)</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-1-6183742.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-2-6183743.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-3-6183744.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-4-6183745.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w201-190/sku/53671064/images/fullsize/kpp-4-st-mercedes-w201-190-53671064-5-6183746.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>900466049</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1989; 2л; Бензин; i; Седан; серый; возможно снятие детали с узла;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53723813" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716216 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-1-6334728.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-2-6335252.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-3-6335253.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-4-6335254.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53723813/images/fullsize/kpp-4-st-mercedes-w124-53723813-5-6335255.jpg |</picture>
+				<Снятые_запчасти>
+					<Артикул>53803834</Артикул>
+					<Характеристики>Цилиндр сцепления рабочий; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803855</Артикул>
+					<Характеристики>Подушка крепления КПП; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+					<Артикул>53803897</Артикул>
+					<Характеристики>Вилка сцепления; 1987; 2л; Бензин; K; Седан; красный;</Характеристики>
+				</Снятые_запчасти>
+			</offer>
+			<offer id="53928300" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>716217 КПП 4-ст. механическая б/у Mercedes W124</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-1-6841922.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-2-6841923.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-3-6841924.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-4-6841925.jpg | https://www.autopriwos.ru/catalogue-transmission/mercedes/w124/sku/53928300/images/fullsize/kpp-4-st-mercedes-w124-53928300-5-6844686.jpg |</picture>
+			</offer>
+			<offer id="53747097" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>CED КПП 4-ст. механическая б/у Volkswagen Golf-3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-1-6538782.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-2-6538783.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-3-6538784.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-4-6538785.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-3/sku/53747097/images/fullsize/kpp-4-st-volkswagen-golf-3-53747097-5-6538786.jpg |</picture>
+			</offer>
+			<offer id="53746145" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>3R КПП 4-ст. механическая б/у Volkswagen Golf-2</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-1-6538733.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-2-6538734.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-3-6538735.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-4-6538736.jpg | https://www.autopriwos.ru/catalogue-transmission/volkswagen/golf-2/sku/53746145/images/fullsize/kpp-4-st-volkswagen-golf-2-53746145-5-6538737.jpg |</picture>
+			</offer>
+			<offer id="53006112" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>КПП 4-ст. механическая б/у Volvo 940</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-1-4437885.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-2-4437886.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-3-4437887.jpg | https://www.autopriwos.ru/catalogue-transmission/volvo/940/sku/53006112/images/fullsize/kpp-4-st-volvo-940-53006112-4-4437888.jpg |</picture>
+			</offer>
+			<offer id="53847735" available="true">
+				<url>https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/index.html</url>
+				<currencyId>RUB</currencyId>
+				<title>AKS КПП 4-ст. механическая б/у Audi 80 B3</title>
+				<categoryId>2</categoryId>
+				<picture> https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-1-6654770.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-2-6654771.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-3-6654772.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-4-6654773.jpg | https://www.autopriwos.ru/catalogue-transmission/audi/80-b3-1987-1992/sku/53847735/images/fullsize/kpp-4-st-audi-80-b3-1987-1992-53847735-5-6654774.jpg |</picture>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
