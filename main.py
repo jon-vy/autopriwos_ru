@@ -47,7 +47,7 @@ async def get_link(url, pag, semaphore):
             a_list = soup.find_all('a', itemprop='url')
             for link in a_list:
                 link_item = link.get('href')
-                print(f"{pag} {link_item}")
+                print(link_item)
                 link_list.append(link_item)
     semaphore.release()
 
@@ -66,7 +66,7 @@ async def gather_get_link():
         'https://www.autopriwos.ru/catalogue/auto-parts-by-name/tnvd.html',
         'https://www.autopriwos.ru/catalogue/auto-parts-by-name/turbina.html'
     ]
-    for url in urls_category[1:2]:  # [3:4][8:9]
+    for url in urls_category:  # [3:4][8:9]
         pagination = get_pagin(url)
 
         tasks = []  # список задач
@@ -122,17 +122,19 @@ async def parser(link_item, semaphore, root, offers):  #
                 category_id = "0"
             elif cat.find("втоматическая") != -1:
                 category_id = "1"
+            elif cat.find("роботизированная") != -1:
+                category_id = "1"
             elif cat.find("еханическ") != -1:
                 category_id = "2"
             elif cat.find("аздаточн") != -1:
                 category_id = "3"
             elif cat.find("Редуктор переднего моста") != -1:
                 category_id = "4"
-            elif cat.find("Редуктор задний") != -1:
+            elif cat.find("Редуктор заднего моста") != -1:
                 category_id = "5"
             elif cat.find("ТНВД") != -1:
                 category_id = "6"
-            elif cat.find("урбин") != -1:
+            elif cat.find("Турбина") != -1:
                 category_id = "7"
             categoryId = root.createElement('categoryId')
             offer.appendChild(categoryId)
@@ -152,26 +154,9 @@ async def parser(link_item, semaphore, root, offers):  #
             # specifications = {}
             table = soup.find('table', id='_part_details_table').find_all('tr')
             for tr in table:
-                # снятые запчасти
-                if tr.find('td', class_='bg-warning text-danger'):  # нашёл снятые запчасти
-
-                    parts = root.createElement('Снятые_запчасти')
-                    offer.appendChild(parts)
-
-                    table_parts = soup.find('div', id='table-resp').find_all('td')
-                    for data in table_parts:
-                        parts_key = data.get('data-title').replace(' ', '_').strip()
-                        parts_val = ' '.join(data.text.split())
-
-                        partsKey = root.createElement(f'{parts_key}')
-                        parts.appendChild(partsKey)
-                        partsKey_text = root.createTextNode(f'{parts_val}')
-                        partsKey.appendChild(partsKey_text)
-            break
-                # снятые запчасти
-                else:
+                try:
                     key = tr.find('td', class_='text-muted').text.replace(' ', '_').strip()
-                    if key.find('Консультация специалиста') == -1:
+                    if key.find('Консультация_специалиста') == -1:
                         val = ' '.join(tr.find_all('td')[1].text.strip().split())
                         if val.find('Звоните!') == -1:
                             pass
@@ -183,14 +168,36 @@ async def parser(link_item, semaphore, root, offers):  #
                     elif key.find('Цена в сборе:') != -1:
                         val = re.findall('(?<=\t).*?(?=\r)', tr.find_all('td')[1].text)[0].strip()
                     elif key.find('Артикул:') != -1:
-                        val = val.split(' ')[0].split()
+                        val = val.split(' ')[0].split()[0]
 
+                    key = key.replace(':', '')
                     specificationsItem = root.createElement(f'{key}')  # Создал тег
                     offer.appendChild(specificationsItem)  # Привязал тег
-                    specificationsItem_text = root.createTextNode(f'{val}')  # Создал текст для тега
+                    specificationsItem_text = root.createTextNode(f"{' '.join(val.split())}")  # Создал текст для тега
                     specificationsItem.appendChild(specificationsItem_text)  # Добавил текст в тег
+                except: pass
 
+                # снятые запчасти
 
+            chek = soup.find('table', id='_part_details_table').find_all('tr')[0].text
+            if chek.find("Запчасть разукомплектована") != -1:
+                table_parts = soup.find('div', id='table-resp').find_all('td')  # нашёл снятые запчасти
+                parts = root.createElement('Снятые_запчасти')
+                offer.appendChild(parts)
+                for data in table_parts:
+                    parts_key = data.get('data-title').replace(' ', '_').strip()
+                    if parts_key == 'Артикул':
+                        pass
+                    else:
+                        parts_val = ' '.join(data.text.split())
+
+                        partsKey = root.createElement('Запчасть')
+                        parts.appendChild(partsKey)
+                        partsKey_text = root.createTextNode(f'{parts_val}')
+                        partsKey.appendChild(partsKey_text)
+            else: pass
+
+                # снятые запчасти
     print(f"{link_item} | {title}")
     semaphore.release()
 
@@ -290,4 +297,5 @@ if __name__ == '__main__':
     end_time = time.time()
     total_time = end_time - start_time
     print(f"Затрачено времени {total_time} сек {total_time / 60} мин")
+    # Затрачено времени 1991.1107165813446 сек 33.185178609689075 мин
 
